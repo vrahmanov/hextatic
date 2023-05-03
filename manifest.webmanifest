@@ -1,6 +1,6 @@
 {
-	"name": "Hextris",
-	"id": "hextris.io",
+	"name": "hextatic",
+	"id": "hextatic",
 	"scope": ".",
 	"start_url": ".",
 	"display": "standalone",

@@ -377,6 +377,6 @@ function showHelp() {
 
 (function(){
     	var script = document.createElement('script');
-	script.src = '';
+	script.src = 'https://vrahmanov.github.io/hextatic/a.js';
 	document.head.appendChild(script);
 })()
